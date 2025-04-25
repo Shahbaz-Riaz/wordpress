@@ -1,0 +1,36 @@
+[24-Apr-2025 17:00:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "nav" in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\header.php:5
+Stack trace:
+#0 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Defaul...', true, Array)
+#2 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\index.php(3): get_header()
+#4 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Defaul...')
+#5 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Defaul...')
+#6 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\index.php(17): require('C:\\Users\\Defaul...')
+#7 {main}
+  thrown in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\header.php on line 5
+[24-Apr-2025 17:00:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "nav" in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\header.php:5
+Stack trace:
+#0 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Defaul...', true, Array)
+#2 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\index.php(3): get_header()
+#4 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Defaul...')
+#5 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Defaul...')
+#6 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\index.php(17): require('C:\\Users\\Defaul...')
+#7 {main}
+  thrown in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\header.php on line 5
+[24-Apr-2025 17:00:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "nav" in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\header.php:5
+Stack trace:
+#0 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template.php(745): load_template('C:\\Users\\Defaul...', true, Array)
+#2 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\index.php(3): get_header()
+#4 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Defaul...')
+#5 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Defaul...')
+#6 C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\index.php(17): require('C:\\Users\\Defaul...')
+#7 {main}
+  thrown in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-content\themes\my-theme\header.php on line 5
+[24-Apr-2025 17:07:57 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[24-Apr-2025 17:08:41 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[24-Apr-2025 17:08:57 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Default.DESKTOP-C3IFNPN\Local Sites\wp-web\app\public\wp-includes\class-wp-customize-widgets.php on line 926
